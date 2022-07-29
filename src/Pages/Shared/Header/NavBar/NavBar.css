@@ -1,0 +1,23 @@
+.nav-area a {
+  color: black;
+  font-size: 18px;
+  margin: 5px;
+  padding: 5px 20px;
+  background-color: rgb(244, 206, 14);
+  border-radius: 2px;
+  text-decoration: none;
+}
+.nav-area a:hover {
+  background-color: transparent;
+  color: white;
+  border: 1px solid white;
+  transition: 0.5s;
+}
+.nav-area-right {
+  color: white;
+  text-decoration: none;
+  font-size: 36px;
+}
+.nav-section span {
+  color: rgb(255, 106, 0);
+}

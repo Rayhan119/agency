@@ -1,0 +1,63 @@
+.service-section {
+  width: 80%;
+  margin: auto;
+  padding: 30px 0;
+}
+.service-footer .card {
+  margin-right: 10px;
+}
+.cart-header {
+  text-align: center;
+}
+.service-icon-header {
+  color: rgb(240, 86, 30);
+  font-size: 60px;
+  padding: 10px 0;
+}
+.cart-button {
+  text-align: center;
+}
+.service-icon-footer {
+  font-size: 10px 20px;
+}
+.cart-area {
+  padding: 10px;
+  text-align: center;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+.card-group {
+  border-left: 1px solid transparent;
+}
+.cart-area:hover {
+  transform: rotate(2deg);
+  transition: 0.6s;
+}
+.service-header {
+  text-align: center;
+  padding: 50px 0;
+}
+.service-header h5 {
+  font-size: 30px;
+  color: orangered;
+}
+.service-header .hr-1 hr {
+  width: 3%;
+  position: relative;
+  top: 40px;
+  left: 305px;
+  border-top: 2px solid orangered;
+  border-bottom: 1px solid orangered;
+}
+.service-header .hr-2 hr {
+  width: 3%;
+  position: relative;
+  top: -30px;
+  left: 560px;
+  border-top: 2px solid orangered;
+  border-bottom: 1px solid orangered;
+}
+.service-header h1 {
+  font-weight: bold;
+  text-transform: uppercase;
+  word-spacing: 1.5px;
+}
